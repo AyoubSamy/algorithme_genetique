@@ -1038,5 +1038,3 @@ Le codage soit adapté.
 
 
 ```python
-
-```
