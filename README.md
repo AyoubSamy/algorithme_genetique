@@ -394,7 +394,7 @@ X
 
 
 
-#### Etape1 : Initialisation de la population (les individus represente un vecteur aleatoire entre 10 et -10 qui est la pente de la droite de regression w)
+#### Etape 1 : Initialisation de la population (les individus represente un vecteur aleatoire entre 10 et -10 qui est la pente de la droite de regression w)
 
 
 ```python
